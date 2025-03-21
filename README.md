@@ -1,6 +1,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical)
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=schmithvillers&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/schmithvillers?theme=radical)
+
 
 
 ```bash
