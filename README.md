@@ -28,7 +28,13 @@ Hi, I’m Bhumika Sharma!
 🚀 Passionate about creating secure, scalable systems
 🎨 Creative designer and fitness enthusiast outside the terminal
 📚 Always learning, always building, always leveling up!
+
+┌──(schmithvillers㉿github)-[~]  
+└─$ **Resume**  
+[Download My Resume](./bhumika.pdf)
+
 ```
+
 ```bash
 ┌──(schmithvillers㉿github)-[~]
 └─$ cat skills.txt
