@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical" height="150px" />
   <img src="https://leetcard.jacoblin.cool/schmithvillers?theme=radical" height="150px" />
-</p>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/bhumikasharma542/)
 [![HackTheBox](https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://app.hackthebox.com/profile/652830)
@@ -9,7 +8,7 @@
 [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com/@schmithvillers2460)
 [![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/schmithvillers)
 [![HuggingFace](https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://huggingface.co/schmithvillers)
-
+</p>
 
 ```bash
 schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)
