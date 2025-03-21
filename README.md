@@ -28,7 +28,8 @@ Hi, I’m Bhumika Sharma!
 🚀 Passionate about creating secure, scalable systems
 🎨 Creative designer and fitness enthusiast outside the terminal
 📚 Always learning, always building, always leveling up!
-
+```
+```bash
 ┌──(schmithvillers㉿github)-[~]
 └─$ cat skills.txt
 🔐 Cybersecurity & Automation:
@@ -41,7 +42,8 @@ Hi, I’m Bhumika Sharma!
   NLP | Adaptive Security Systems
 🎨 Creative Tech:
   Blender (3D Modeling) | Figma | Logo Design | UI/UX
-
+```
+```bash
 ┌──(schmithvillers㉿github)-[~]
 └─$ neofetch
 OS: Cyber-AI Linux 💻
