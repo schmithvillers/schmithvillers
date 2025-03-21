@@ -30,7 +30,7 @@ Hi, I’m Bhumika Sharma!
 📚 Always learning, always building, always leveling up!
 
 ```
-`┌──(schmithvillers㉿github)-[~]` 
+`┌──(schmithvillers㉿github)-[~]`       
 [`└─$ wget ./Bhumika_Resume.pdf`](./Bhumika_Resume.pdf)
 
 
