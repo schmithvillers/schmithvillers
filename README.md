@@ -15,7 +15,9 @@
 ```bash
 schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)
 ```
-`┌──(schmithvillers㉿github)-[~]`       
+```bash
+┌──(schmithvillers㉿github)-[~]
+```  
 `└─$ `[`wget ./bhumika_resume.pdf`](./Bhumika_Resume.pdf)
 
 ```bash
