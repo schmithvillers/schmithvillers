@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical" height="45%" />
   <img src="https://leetcard.jacoblin.cool/schmithvillers?theme=radical" height="45%" />
 </p>
 
