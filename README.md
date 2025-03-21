@@ -30,10 +30,6 @@ Hi, I’m Bhumika Sharma!
 📚 Always learning, always building, always leveling up!
 
 ```
-`┌──(schmithvillers㉿github)-[~]`       
-`└─$ `[`wget ./bhumika_resume.pdf`](./Bhumika_Resume.pdf)
-
-
 ```bash
 ┌──(schmithvillers㉿github)-[~]
 └─$ cat skills.txt
@@ -61,4 +57,8 @@ CPU: 💡💡💡💡💡
 Memory: Infinite Curiosity
 
 ```
+`┌──(schmithvillers㉿github)-[~]`       
+`└─$ `[`wget ./bhumika_resume.pdf`](./Bhumika_Resume.pdf)
+
+
 
