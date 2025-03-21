@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical" height="45%" />
-  <img src="https://leetcard.jacoblin.cool/schmithvillers?theme=radical" height="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical" height="40px" />
+  <img src="https://leetcard.jacoblin.cool/schmithvillers?theme=radical" height="40px" />
 </p>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/bhumikasharma542/)
