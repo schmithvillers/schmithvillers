@@ -30,10 +30,10 @@ Hi, I’m Bhumika Sharma!
 📚 Always learning, always building, always leveling up!
 
 ┌──(schmithvillers㉿github)-[~]  
-└─$ **Resume**  
-[Download My Resume](./bhumika.pdf)
-
+└─$ wget bhumika-resume.pdf
 ```
+[Download My Resume](./bhumika-resume.pdf)
+
 
 ```bash
 ┌──(schmithvillers㉿github)-[~]
