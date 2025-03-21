@@ -1,117 +1,68 @@
-## Hi there 👋
+# 🌟 Bhumika Sharma 🌟
 
-<!--
-**schmithvillers/schmithvillers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhumikaSharma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhumika-sharma)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@bhumika-sharma)
+[![GitHub](https://img.shields.io/github/followers/BhumikaSharma?label=Follow&style=social)](https://github.com/BhumikaSharma)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="left">Hi 👋! My name is Bhumika Sharma <br><br>AI + Cybersecurity Engineer</h2>
+## 👩🏻‍💻 About Me
+Hi there! I’m **Bhumika Sharma**, a Cybersecurity enthusiast, AI/ML explorer, and Cloud Computing geek 🚀. I’m currently pursuing my Master's in Cybersecurity and working part-time while juggling multiple creative pursuits—from building secure systems to designing logos and even diving into the world of fitness & calisthenics 💪.
 
-###
+My mission is to blend **cutting-edge technologies** like AI, Federated Learning, and Cloud Security to create **secure, scalable, and innovative solutions**.  
+I also love sharing knowledge through **teaching**, **writing**, and soon, my **YouTube channel**!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schmithvillers&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schmithvillers&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🔐 Cybersecurity Skills
+- 🚩 CyberArk EPM | CrowdStrike Falcon | Web Application Firewall (WAF)
+- 🛡️ Endpoint Protection | Identity & Access Management | DLP | DevSecOps
+- 🔥 OWASP Top 10 | Network Security | Cloud Security | Honeypots & Deception Tech
+- ⚙️ Automation: PowerShell & Python scripting for security dashboards & processes
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## ☁️ Cloud & AI Interests
+- ☁️ Google Cloud Platform | Azure | AWS (Learning Path)
+- 🤖 Machine Learning | Deep Learning | NLP
+- 🕵️‍♂️ Federated Learning for Phishing Detection (Current Project)
+- 🌐 AI for Adaptive Cybersecurity Systems & Smart Cities
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-</div>
+---
 
-###
+## 🛠️ Tools & Technologies
+`Python` | `PowerShell` | `Bash` | `Kali Linux` | `GCP` | `CrowdStrike` | `CyberArk` | `Docker` | `Blender` | `Figma` | `Git`
 
-<div align="left">
-  <a href="https://www.youtube.com/@schmithvillers2460" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=bhumikas0405@gmail.com&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/bhumikasharma542/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/sharbhu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
-</div>
+---
 
-###
+## 🏆 Achievements & Projects
+- 🥇 **Winner - SAP Challenge, IdeasLab Enterprise Challenge**
+- 🏅 Published papers in HORA & ICETEAS conferences on AI & Security
+- 📁 **SecureGPT** - AI-powered defensive counterpart to WormGPT *(concept)*
+- 🧠 Teaching & mentoring through projects, presentations & social media content
+- 🎨 Freelance Graphic Designer (Logos, 3D Modelling - Blender)
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/schmithvillers/schmithvillers/output/snake.svg" alt="Snake animation" />
+## 📚 Currently Learning
+- Advanced Networking & Network Security
+- Google Cloud Security Specialization
+- NLP for real-world applications
+- Calisthenics & Kickboxing (yes, balance is key!)
 
-###
+---
+
+## 🚀 Let’s Connect!
+Always open to collaborating on:
+- Innovative Cybersecurity & AI Projects
+- Cloud Security Solutions
+- Teaching Workshops & Speaking Events
+- Freelance Design & Creative Tech Work
+
+**✨ Let's build, break, secure, and scale together!**
+
+---
+
+![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaSharma&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaSharma&layout=compact&theme=radical)
+
