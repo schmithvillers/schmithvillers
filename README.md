@@ -18,7 +18,7 @@ schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)
 ┌──(schmithvillers㉿github)-[~]
 └─$ wget ./bhumika-resume.pdf
 ```
-[./bhumika-resume.pdf](./bhumika_resume.pdf)
+[`./bhumika-resume.pdf`](./bhumika_resume.pdf)
 ```bash
 ┌──(schmithvillers㉿github)-[~]
 └─$ whoami
