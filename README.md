@@ -2,7 +2,9 @@
 schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)
 ```
 ![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaSharma&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaSharma&layout=compact&theme=radical)
+![GitHub Followers](https://img.shields.io/github/followers/BhumikaSharma?label=Followers&style=flat-square&color=00FF00&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/BhumikaSharma?label=Stars&style=flat-square&color=00FF00&logo=github)
+![GitHub Repos](https://img.shields.io/badge/Public%20Repos-42-brightgreen?style=flat-square)
 
 ```bash
 ┌──(schmithvillers㉿github)-[~]
