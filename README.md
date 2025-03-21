@@ -15,12 +15,12 @@
 ```bash
 schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)
 ```
-
+`┌──(schmithvillers㉿github)-[~]`
 ```bash
-┌──(schmithvillers㉿github)-[~]
 └─$ whoami
 Cybersecurity Engineer | AI/ML Enthusiast | Cloud Explorer | Designer | Fitness Lover
-
+```
+```bash
 ┌──(schmithvillers㉿github)-[~]
 └─$ cat about_me.txt
 Hi, I’m Bhumika Sharma!
@@ -29,14 +29,9 @@ Hi, I’m Bhumika Sharma!
 🎨 Creative designer and fitness enthusiast outside the terminal
 📚 Always learning, always building, always leveling up!
 
-┌──(schmithvillers㉿github)-[~]  
-└─$ wget bhumika-resume.pdf
-
-[Download My Resume](./bhumika-resume.pdf)
-┌──(schmithvillers㉿github)-[~]  
-└─$ wget bhumika-resume.pdf
 ```
 `┌──(schmithvillers㉿github)-[~]`
+
 `└─$ wget ./Bhumika_Resume.pdf`  
 [`Download My Resume`](./Bhumika_Resume.pdf)
 
