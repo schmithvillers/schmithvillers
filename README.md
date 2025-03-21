@@ -31,7 +31,6 @@ Blender (3D Modeling) | Figma | Logo Design | UI/UX
 
 ┌──(schmithvillers㉿github)-[~]
 └─$ ./connect.sh
-```
 LinkedIn[https://www.linkedin.com/in/bhumika-sharma](https://www.linkedin.com/in/bhumikasharma542/)]
 HackTheBox[https://app.hackthebox.com/profile#652830]
 Google Cloud[https://www.cloudskillsboost.google/public_profiles/872a1138-8b66-4dda-954a-b96f12721b28]
@@ -40,9 +39,6 @@ Kaggle[https://www.kaggle.com/schmithvillers]
 HuggingFace[https://huggingface.co/schmithvillers]
 Leetcode[https://leetcode.com/u/sharbhu]
 
-
-
-```bash
 ┌──(schmithvillers㉿github)-[~]
 └─$ neofetch
 OS: Cyber-AI Linux 💻
