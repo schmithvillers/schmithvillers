@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/schmithvillers?theme=radical" width="45%" />
+</p>
+
+
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/schmithvillers?theme=radical)
@@ -56,3 +63,4 @@ CPU: 💡💡💡💡💡
 Memory: Infinite Curiosity
 
 ```
+
