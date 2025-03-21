@@ -31,7 +31,7 @@ Hi, I’m Bhumika Sharma!
 
 ```
 `┌──(schmithvillers㉿github)-[~]`       
-`└─$ `[`wget ./Bhumika_Resume.pdf`](./Bhumika_Resume.pdf)
+`└─$ `[`wget ./bhumika_resume.pdf`](./Bhumika_Resume.pdf)
 
 
 ```bash
