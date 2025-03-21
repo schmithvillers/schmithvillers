@@ -1,13 +1,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical" width="45%" />
-  <img src="https://leetcard.jacoblin.cool/schmithvillers?theme=radical" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/schmithvillers?theme=radical" height="45%" />
 </p>
-
-
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/schmithvillers?theme=radical)
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/bhumikasharma542/)
 [![HackTheBox](https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://app.hackthebox.com/profile/652830)
