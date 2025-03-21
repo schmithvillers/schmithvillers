@@ -1,10 +1,7 @@
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaSharma&show_icons=true&theme=radical)
 ```bash
 schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)
 ```
-![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaSharma&show_icons=true&theme=radical)
-![GitHub Followers](https://img.shields.io/github/followers/BhumikaSharma?label=Followers&style=flat-square&color=00FF00&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/BhumikaSharma?label=Stars&style=flat-square&color=00FF00&logo=github)
-![GitHub Repos](https://img.shields.io/badge/Public%20Repos-42-brightgreen?style=flat-square)
 
 ```bash
 ┌──(schmithvillers㉿github)-[~]
@@ -37,13 +34,13 @@ Blender (3D Modeling) | Figma | Logo Design | UI/UX
 
 ┌──(schmithvillers㉿github)-[~]
 └─$ ./connect.sh
-LinkedIn[https://www.linkedin.com/in/bhumika-sharma](https://www.linkedin.com/in/bhumikasharma542/)]
-HackTheBox[https://app.hackthebox.com/profile#652830]
-Google Cloud[https://www.cloudskillsboost.google/public_profiles/872a1138-8b66-4dda-954a-b96f12721b28]
-YouTube Channel[https://www.youtube.com/@schmithvillers2460]
-Kaggle[https://www.kaggle.com/schmithvillers]
-HuggingFace[https://huggingface.co/schmithvillers]
-Leetcode[https://leetcode.com/u/sharbhu]
+LinkedIn: linkedin.com/in/bhumikasharma542/)
+HackTheBox: app.hackthebox.com/profile#652830
+Google Cloud: cloudskillsboost.google/public_profiles/872a1138-8b66-4dda-954a-b96f12721b28]
+YouTube Channel: youtube.com/@schmithvillers2460]
+Kaggle: kaggle.com/schmithvillers]
+HuggingFace: huggingface.co/schmithvillers]
+Leetcode: leetcode.com/u/sharbhu]
 
 ┌──(schmithvillers㉿github)-[~]
 └─$ neofetch
@@ -57,18 +54,3 @@ CPU: 💡💡💡💡💡
 Memory: Infinite Curiosity
 
 ```
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@schmithvillers2460" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=bhumikas0405@gmail.com&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/bhumikasharma542/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/sharbhu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
-</div>
