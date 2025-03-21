@@ -1,8 +1,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=radical)
-### LeetCode Stats:
-![LeetCode Stats](https://img.shields.io/badge/LeetCode%20Profile-Solved%20Problems-blue?style=flat&logo=leetcode&logoColor=white&labelColor=000000)
 
-[![LeetCode](https://img.shields.io/leetCode/solved/sharbhu?style=flat-square&logo=leetcode&logoColor=white&color=green)](https://leetcode.com/u/sharbhu/)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sharbhu&theme=radical)
+
 
 ```bash
 schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)
