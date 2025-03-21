@@ -10,13 +10,13 @@
 [![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/schmithvillers)
 [![HuggingFace](https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://huggingface.co/schmithvillers)
 
-
-`schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)`
-
-
-`┌──(schmithvillers㉿github)-[~]`
-`└─$ `[`wget ./bhumika_resume.pdf`](./Bhumika_Resume.pdf)
-
+```bash
+schmithvillers@github: ~/Welcome! My name is Bhumika(aka schmithvillers)`
+```
+```bash
+┌──(schmithvillers㉿github)-[~]
+└─$ wget ./bhumika_resume.pdf
+```
 ```bash
 ┌──(schmithvillers㉿github)-[~]
 └─$ whoami
