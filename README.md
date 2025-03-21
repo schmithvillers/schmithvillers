@@ -32,18 +32,15 @@ Hi, I’m Bhumika Sharma!
 ┌──(schmithvillers㉿github)-[~]
 └─$ cat skills.txt
 🔐 Cybersecurity & Automation:
-
-CyberArk EPM | CrowdStrike Falcon | WAF | IAM | DLP
-Network & Cloud Security | Deception Tech | Endpoint Protection
-PowerShell & Python Scripting | Dashboards | Automation Workflows
+  CyberArk EPM | CrowdStrike Falcon | WAF | IAM | DLP
+  Network & Cloud Security | Deception Tech | Endpoint Protection
+  PowerShell & Python Scripting | Dashboards | Automation Workflows
 ☁️ Cloud & AI Toolkit:
-
-Google Cloud Platform | Azure | AWS
-Machine Learning | Deep Learning | Federated Learning
-NLP | Adaptive Security Systems
+  Google Cloud Platform | Azure | AWS
+  Machine Learning | Deep Learning | Federated Learning
+  NLP | Adaptive Security Systems
 🎨 Creative Tech:
-
-Blender (3D Modeling) | Figma | Logo Design | UI/UX
+  Blender (3D Modeling) | Figma | Logo Design | UI/UX
 
 ┌──(schmithvillers㉿github)-[~]
 └─$ neofetch
