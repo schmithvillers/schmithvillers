@@ -1,24 +1,14 @@
-<h2>Hi, I'm Bhumika 👋</h2>
+## Hi, I'm Bhumika 👋
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" src="https://leetcard.jacoblin.cool/schmithvillers?theme=dark" width="420"/>
 
-### Java Backend Developer passionate about Computer Networking and Linux Systems Programming.
+Backend developer interested in Java, Computer Networking, and Linux Systems Programming.
 
-- ☕ **Java Backend Development** (Spring Boot, REST APIs)
-- 🌐 **Computer Networking & Linux Systems**
-- ⚙️ **C++** for networking and systems projects
-- 🐍 **Python** for automation and side projects
+- ☕ Java Backend
+- 🌐 Computer Networking
+- ⚙️ C++ Systems Projects
+- 🐍 Python Automation
 
-<br>
+<br clear="right"/>
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://leetcard.jacoblin.cool/schmithvillers?theme=dark"/>
-
-</td>
-</tr>
-</table>
+---
