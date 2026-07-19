@@ -1,23 +1,26 @@
-# Hi, I'm Bhumika 👋
+## Hi, I'm Bhumika 👋
 
 <table>
 <tr>
+
 <td width="60%" valign="top">
 
-### Backend Engineer with a strong interest in **Java, computer networking, and Linux systems programming.**
+### Java Backend Developer passionate about Computer Networking and Linux Systems Programming.
 
 - ☕ **Java Backend Development** (Spring Boot, REST APIs)
 - 🌐 **Computer Networking & Linux Systems**
 - ⚙️ **C++** for networking and systems projects
 - 🐍 **Python** for automation and side projects
 
+<br>
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/schmithvillers?theme=dark)
+<img src="https://leetcard.jacoblin.cool/schmithvillers?theme=dark"/>
 
 </td>
+
 </tr>
 </table>
