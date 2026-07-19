@@ -1,12 +1,20 @@
-## Hi, I'm Bhumika 👋
+# Hi, I'm Bhumika 👋
 
-Aspiring Backend Engineer with a strong interest in **Java, computer networking, and Linux systems programming**.
+Computer Science student focused on **Java backend development, computer networking, and Linux systems programming**.
 
-- Java Backend Development
-- C++ for networking and systems projects
-- Python for automation and experimental side projects
-- Exploring networking protocols and scalable backend systems
+- ☕ Java Backend Development (Spring Boot, REST APIs)
+- 🌐 Computer Networking & Linux Systems
+- ⚙️ C++ for networking and systems projects
+- 🐍 Python for automation and side projects
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/schmithvillers)
+## Currently Building
 
-Nice to meet you! Let's build something together :)
+- 🌐 Production-Grade DNS Server (C++)
+- ☸️ Mini Kubernetes Networking Stack (C++)
+- 🚀 Software Router
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schmithvillers&show_icons=true&theme=github_dark)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/schmithvillers?theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schmithvillers&layout=compact&theme=github_dark)
