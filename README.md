@@ -11,6 +11,7 @@
 - ⚙️ **C++** for networking and systems projects
 - 🐍 **Python** for automation and side projects
 
+
 </td>
 
 <td width="40%" align="center">
