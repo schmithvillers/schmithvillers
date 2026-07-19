@@ -8,7 +8,6 @@
 ### Java Backend Developer passionate about Computer Networking and Linux Systems Programming.
 
 - ☕ **Java Backend Development** (Spring Boot, REST APIs)
-- 🌐 **Computer Networking & Linux Systems**
 - ⚙️ **C++** for networking and systems projects
 - 🐍 **Python** for automation and side projects
 
