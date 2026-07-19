@@ -2,6 +2,7 @@
 
 I'm a java/c++ developer, love backend development, computer networks, fun side python project & documentation.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)]([https://leetcode.com/u/YOUR_USERNAME/](https://leetcode.com/u/schmithvillers/))
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=schmithvillers&theme=dark)
 
 Nice to meet you! Let's build something together :)
