@@ -1,7 +1,6 @@
 ### 👋 Hi there, I’m Bhumika (she/her) 💜
 
-I'm a java/c++ developer, love backend development, computer networks, fun side python project & documentation.
-
+I'm a Java/C++ developer, love backend development, computer networks, fun side python project & documentation.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/schmithvillers)
 
